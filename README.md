@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Data Structures & Algorithms, SQL, Statistics, Data Handling and Visualization, Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me: deby29050@gmail.com
+- 📫 How to reach me: adebola.shelby@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Always pushing the boundaries of what's possible
 
