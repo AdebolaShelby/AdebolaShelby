@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdebolaShelby
-- 👀 I’m interested in Data Science & Machine Learning
+- 👀 Experienced quantitative data analyst with over 3 years of experience in analyzing, evaluating, and reporting on large datasets. Skilled in statistical modeling, quantitative analysis, exploratory, and predictive analysis. Proficient at transforming complex data into actionable insights to drive business decisions.
 - 🌱 I’m currently learning Data Structures & Algorithms, SQL, Statistics, Data Handling and Visualization, Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me: adebola.shelby@gmail.com
